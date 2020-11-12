@@ -1,9 +1,5 @@
 # QDUOJSecondaryDevelopmentFE
 
-**此版本为主题测试版本分支，不建议直接使用。**
-
-**This version is a branch of the theme test version and it is not recommended to use it directly.**
-
 >### A multiple pages app built for OnlineJudge. [Demo](http://oj.xiaoao.space)
 
 ## Features
